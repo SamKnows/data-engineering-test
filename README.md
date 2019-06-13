@@ -28,7 +28,10 @@ You can find a gzipped CSV file containing the data <a href="https://files.samkn
 
 ## Approach
 
-You can use any method you wish to identify the anomalies as long as it is demonstrable and we are capable of running the solution during the review process.
+We would like for you to use ONE of the following approaches:
+
+1. Use a high level programming language of your choice (e.g. PHP, Python, Go) to produce an application to identify anomalies
+2. Import the data set into a databasing technology and use SQL to identify anomalies.
 
 ## What we are looking for
 
