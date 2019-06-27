@@ -5,7 +5,9 @@
 
 ## Outline
 
-In this scenario the provided download measurement data is being ingested into the SamKnows big data platform, your task is to identify any anomalies in the data. 
+In this scenario the provided download measurement data is being ingested into the SamKnows big data platform.
+
+Your task as a data engineer is to write a basic data integrity application to ensure we are consistently importing valid and accurate data.
 
 The end result of this test should be a report outlining anomalies found in the data to be investigated. 
 
